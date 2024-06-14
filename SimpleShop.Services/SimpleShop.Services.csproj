@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net8.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\SimpleShop.Cache\SimpleShop.Cache.csproj" />
+      <ProjectReference Include="..\SimpleShop.Data\SimpleShop.Data.csproj" />
+      <ProjectReference Include="..\SimpleShop.Models\SimpleShop.Models.csproj" />
+    </ItemGroup>
+
+</Project>

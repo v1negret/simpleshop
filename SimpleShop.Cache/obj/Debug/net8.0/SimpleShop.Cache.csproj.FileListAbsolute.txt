@@ -1,0 +1,12 @@
+C:\Users\maksb\RiderProjects\SimpleShop\SimpleShop.Cache\bin\Debug\net8.0\SimpleShop.Cache.deps.json
+C:\Users\maksb\RiderProjects\SimpleShop\SimpleShop.Cache\bin\Debug\net8.0\SimpleShop.Cache.dll
+C:\Users\maksb\RiderProjects\SimpleShop\SimpleShop.Cache\bin\Debug\net8.0\SimpleShop.Cache.pdb
+C:\Users\maksb\RiderProjects\SimpleShop\SimpleShop.Cache\obj\Debug\net8.0\SimpleShop.Cache.csproj.AssemblyReference.cache
+C:\Users\maksb\RiderProjects\SimpleShop\SimpleShop.Cache\obj\Debug\net8.0\SimpleShop.Cache.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maksb\RiderProjects\SimpleShop\SimpleShop.Cache\obj\Debug\net8.0\SimpleShop.Cache.AssemblyInfoInputs.cache
+C:\Users\maksb\RiderProjects\SimpleShop\SimpleShop.Cache\obj\Debug\net8.0\SimpleShop.Cache.AssemblyInfo.cs
+C:\Users\maksb\RiderProjects\SimpleShop\SimpleShop.Cache\obj\Debug\net8.0\SimpleShop.Cache.csproj.CoreCompileInputs.cache
+C:\Users\maksb\RiderProjects\SimpleShop\SimpleShop.Cache\obj\Debug\net8.0\SimpleShop.Cache.dll
+C:\Users\maksb\RiderProjects\SimpleShop\SimpleShop.Cache\obj\Debug\net8.0\refint\SimpleShop.Cache.dll
+C:\Users\maksb\RiderProjects\SimpleShop\SimpleShop.Cache\obj\Debug\net8.0\SimpleShop.Cache.pdb
+C:\Users\maksb\RiderProjects\SimpleShop\SimpleShop.Cache\obj\Debug\net8.0\ref\SimpleShop.Cache.dll

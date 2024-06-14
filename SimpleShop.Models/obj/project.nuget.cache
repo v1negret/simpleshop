@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "qhGecPAgfb7CYW8+Dkb04e40JsUmnUj+4Dk2i7jYCUKBoujcZqlAMOiT4PzoP/IBmeeXL8+bHezb37kpG47Jqw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\maksb\\RiderProjects\\SimpleShop\\SimpleShop.Models\\SimpleShop.Models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\maksb\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\8.0.6\\microsoft.aspnetcore.cryptography.internal.8.0.6.nupkg.sha512",
+    "C:\\Users\\maksb\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\8.0.6\\microsoft.aspnetcore.cryptography.keyderivation.8.0.6.nupkg.sha512",
+    "C:\\Users\\maksb\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\8.0.0\\microsoft.extensions.caching.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\maksb\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\maksb\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\maksb\\.nuget\\packages\\microsoft.extensions.identity.core\\8.0.6\\microsoft.extensions.identity.core.8.0.6.nupkg.sha512",
+    "C:\\Users\\maksb\\.nuget\\packages\\microsoft.extensions.identity.stores\\8.0.6\\microsoft.extensions.identity.stores.8.0.6.nupkg.sha512",
+    "C:\\Users\\maksb\\.nuget\\packages\\microsoft.extensions.logging\\8.0.0\\microsoft.extensions.logging.8.0.0.nupkg.sha512",
+    "C:\\Users\\maksb\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\maksb\\.nuget\\packages\\microsoft.extensions.options\\8.0.2\\microsoft.extensions.options.8.0.2.nupkg.sha512",
+    "C:\\Users\\maksb\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

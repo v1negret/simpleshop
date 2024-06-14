@@ -1,0 +1,29 @@
+﻿services:
+  simpleshop.webapi:
+    image: simpleshop.webapi
+    container_name: simpleshop.webapi
+    build:
+      context: .
+      dockerfile: SimpleShop.WebAPI/Dockerfile
+    depends_on:
+      - simpleshop.cache
+      - simpleshop.database
+    ports:
+      - 8080:8080
+  simpleshop.database:
+    image: postgres:latest
+    container_name: simpleshop.database
+    ports:
+      - 5432:5432
+    environment:
+      - POSTGRES_DB=simpleshop
+      - POSTGRES_USER=root
+      - POSTGRES_PASSWORD=root
+    volumes:
+      - ./db:/var/lib/postgresql/data
+  simpleshop.cache:
+    image: redis:latest
+    container_name: simpleshop.cache
+    ports:
+      - 6379:6379
+    restart: always

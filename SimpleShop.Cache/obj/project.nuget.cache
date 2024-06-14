@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "LfmGZvjLjSKd3QljkPGK0R/8nMVJQFmyEB3H9cXptYk/44qNNOX0upRPZnmKlOBzhDSCDZKUhMRL8w7UZiTYPQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\maksb\\RiderProjects\\SimpleShop\\SimpleShop.Cache\\SimpleShop.Cache.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\maksb\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\8.0.0\\microsoft.extensions.caching.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\maksb\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+C:\Users\maksb\RiderProjects\SimpleShop\SimpleShop.Models\bin\Debug\net8.0\SimpleShop.Models.deps.json
+C:\Users\maksb\RiderProjects\SimpleShop\SimpleShop.Models\bin\Debug\net8.0\SimpleShop.Models.dll
+C:\Users\maksb\RiderProjects\SimpleShop\SimpleShop.Models\bin\Debug\net8.0\SimpleShop.Models.pdb
+C:\Users\maksb\RiderProjects\SimpleShop\SimpleShop.Models\obj\Debug\net8.0\SimpleShop.Models.csproj.AssemblyReference.cache
+C:\Users\maksb\RiderProjects\SimpleShop\SimpleShop.Models\obj\Debug\net8.0\SimpleShop.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maksb\RiderProjects\SimpleShop\SimpleShop.Models\obj\Debug\net8.0\SimpleShop.Models.AssemblyInfoInputs.cache
+C:\Users\maksb\RiderProjects\SimpleShop\SimpleShop.Models\obj\Debug\net8.0\SimpleShop.Models.AssemblyInfo.cs
+C:\Users\maksb\RiderProjects\SimpleShop\SimpleShop.Models\obj\Debug\net8.0\SimpleShop.Models.csproj.CoreCompileInputs.cache
+C:\Users\maksb\RiderProjects\SimpleShop\SimpleShop.Models\obj\Debug\net8.0\SimpleShop.Models.dll
+C:\Users\maksb\RiderProjects\SimpleShop\SimpleShop.Models\obj\Debug\net8.0\refint\SimpleShop.Models.dll
+C:\Users\maksb\RiderProjects\SimpleShop\SimpleShop.Models\obj\Debug\net8.0\SimpleShop.Models.pdb
+C:\Users\maksb\RiderProjects\SimpleShop\SimpleShop.Models\obj\Debug\net8.0\ref\SimpleShop.Models.dll
